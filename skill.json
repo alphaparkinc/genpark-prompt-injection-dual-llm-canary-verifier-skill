@@ -1,0 +1,11 @@
+{
+  "name": "genpark-prompt-injection-dual-llm-canary-verifier-skill",
+  "version": "1.0.0",
+  "description": "Verifies untrusted user prompt payloads against adversarial injection attacks using canary tokens and delimiter containment",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "homepage": "https://www.genpark.ai",
+  "linkedin": "https://www.linkedin.com/company/92955550",
+  "linkedin_page": "https://www.llinkedin.com/company/92955550",
+  "license": "MIT"
+}
